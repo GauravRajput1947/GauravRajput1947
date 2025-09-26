@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kumar Gaurav</h1>
-<h3 align="center">A passionate Dot Net developer from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
-- 🌱 I’m currently learning **ASP.Net Core**
+- 🌱 I’m currently learning **Python and PySpark**
 
-- 💬 Ask me about **C#,Asp.net core,MVC, Web Api,Entity Framework**
+- 💬 Ask me about **Python,SQL,Hadoop,PySpark,Data Warehouse,AWS,DataBricks**
 
 - 📫 How to reach me **kumargauravofficial6163@gmail.com**
 
