@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kumargauravofficial6163@gmail.com**
 
-- 📄 Know about my experiences [I have 3 year experience in Data Engineering](I have 3 year experience in Data Engineering)
+- 📄 Know about my experiences (I have 3 year experience in Data Engineering)
 
 - ⚡ Fun fact **I think I am a Funny and Entertainer**
 
