@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python,SQL,Hadoop,PySpark,DataWarehouse and Modelling,AWS,DataBricks**
 
-- 📫 How to reach me **kumargauravofficial6163@gmail.com**
+- 📫 How to reach me **gauravofficial6163@gmail.com**
 
 - 📄 Know about my experiences (I have 3 year experience in AWS Data Engineering)
 
